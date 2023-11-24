@@ -1,4 +1,4 @@
-# Conversor de Moedas 💱
+# 💱 Conversor de Moedas 
 Um conversor de moedas capaz de converter libras esterlinas para dólares.
 
 ### ❓ Como usar:
@@ -12,4 +12,4 @@ Linguagens usadas: JavaScript, HTML5 e CSS3;
 
 Contém um sistema de validação que, caso nenhum campo seja preenchido, irá aparecer um pop-up pedindo para preencher todos os campos.
 
-Feito com 💜 por AS
+Feito com 💜 por [AS](https://www.linkedin.com/in/amandaa-souza/)
