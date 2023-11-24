@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  outline: none;
+}
+
+header {
+  text-align: center;
+  height: 100px;
+  padding: 10px;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/R.d809e4e641fc467033aff949b27157f7?rik=jHtHCBL%2fSuYgHg&pid=ImgRaw&r=0&sres=1&sresct=1");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  align-items: center;
+  justify-content: center;
+  display: block;
+}
+
+.caixa {
+  font-size: 18px;
+  text-align: center;
+}
+
+.container {
+   max-width: 370px;
+  margin: 120px 60px 0;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #eabda3;
+  display: inline-block;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 0 0 5px;
+}
+
+.page-logo {
+  max-height: 250px;
+  width: 200px;
+}
+
+p {
+  margin: 15px;
+  color: black;
+}
+
+#resultado {
+  font-size: 17px;
+  text-align: center;
+  color: darkgreen;
+  background: lightgreen;
+}
+
+#btnLimpar {
+  border-radius: 5px;
+  padding: 6px;
+  color: darkred;
+  background: lightcoral;
+  border-color: red;
+}
+
+#btnConverter {
+  border-radius: 5px;
+  padding: 6px;
+  color: darkblue;
+  background: lightblue;
+  border-color: blue;
+}
+
+input {
+  margin: 5px;
+  padding: 6px;
+  border-radius: 5px;
+  background: lightyellow;
+  border-color: orange;
+  text-align: center;
+}
